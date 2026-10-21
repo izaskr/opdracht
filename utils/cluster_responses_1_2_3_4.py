@@ -9,7 +9,11 @@ import pickle
 import os
 import matplotlib.pyplot as plt
 
-login(token="REMOVED")
+with open("/home/skrjanec/cito_opdracht/ht.txt", "r") as fh:
+    for line in fh:
+        hf_token = line.strip()
+
+login(token=hf_token)
 
 
 def vectorize_answers_or_responses(list_of_strings, model):
