@@ -1,0 +1,50 @@
+## Item 1
+vak = aardrijkskunde
+item_id = i01 (32jt68)
+max_score = 1
+
+stimulus: In 2017 en 2018 kwamen de meeste immigranten in Nederland uit Europa. Uit de andere werelddelen kwamen veel minder migranten naar Nederland. Een van de redenen hiervan is dat Nederland voor Europese migranten dichtbij ligt.
+vraag: Noem nog een reden waarom de meeste immigranten in Nederland uit Europa komen.
+correctie_voorschrift: Voorbeelden van een juiste reden zijn:
+  - Inwoners uit de lidstaten van de Europese Unie kunnen zich vrij vestigen (wonen/werken/studeren) in andere lidstaten.
+  - Veel bedrijven hebben vestigingen in meerdere landen in de Europese Unie.
+  - Binnen Europa zijn veel overeenkomsten in cultuur.
+scoring: 1 punt voor een goed antwoord
+
+## Item 2
+vak = aardrijkskunde
+item_id = i02 (32jt6c)
+max_score = 2
+
+stimulus: De stad Almere wil de komende jaren sterk gaan uitbreiden. Om de stad aantrekkelijk te houden voor nieuwe inwoners moet de bereikbaarheid tussen Almere en Amsterdam verbeterd worden.
+vraag: Geef twee redenen waarom een goede bereikbaarheid van Amsterdam een belangrijke aantrekkingsfactor voor nieuwe inwoners van Almere is?
+correctie_voorschrift: Voorbeelden van een juiste reden zijn:
+  - Veel nieuwe inwoners (willen gaan) werken in Amsterdam.
+  - Amsterdam heeft een groot aanbod van voorzieningen.
+  - Veel inwoners van Almere hebben sociale banden met Amsterdam.
+scoring: 1 punt per juiste reden
+
+## Item 3
+vak = biologie
+item_id = i03 (32ddt8)
+max_score = 2
+
+stimulus: In Alaska groeien veel sparren. Sparren zijn naaldbomen. Het gaat steeds minder goed met deze naaldbomen. Ze hebben last van uitdroging. Maar niet doordat er minder water in de grond zit: ze verdampen te veel water door de opwarming van de aarde. Ze groeien het beste bij een gemiddelde zomertemperatuur van maximaal tien graden Celsius.
+vraag: Hoe heten de delen van het blad waardoor de boom water kwijtraakt? En hoe heten de delen van de wortel die zorgen voor de opname van water?
+correctie_voorschrift:
+  -  delen van de blad: huidmondjes
+  -  delen van de wortel: wortelharen
+scoring: 1 punt per juist benoemde delen
+
+## Item 4
+vak = biologie
+item_id = i04 (32bll7)
+max_score = 1
+
+stimulus: Terra heeft last van een hartritmestoornis. Haar lichaamscellen krijgen op dat moment onvoldoende zuurstof. Door het gebrek aan zuurstof gaat de stofwisseling omlaag. Stofwisseling is een levenskenmerk.
+vraag: Noem een ander levenskenmerk
+correctie_voorschrift: voorbeelden van een ander levenskenmerk zijn:
+   - voortplanting
+   - groei
+   - reageren op prikkels
+scoring: 1 punt voor een correct ander levenskenmerk
