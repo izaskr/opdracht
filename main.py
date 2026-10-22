@@ -159,14 +159,15 @@ def evaluate_item4(new_responses_i04, stimuli, extended_answers, model):
 
 
 def evaluate_main():
-    new_csv = "/home/skrjanec/cito_opdracht/data/new_data_new.csv"
+    # new responses
+    new_csv = "/home/skrjanec/cito_opdracht/data/data_new.csv"
     new_responses = read_in_new_responses(new_csv)
-
+    # stimuli texts
     stimuli = StimuliItems("/home/skrjanec/cito_opdracht/data/items.txt")
-    #import pdb; pdb.set_trace()
+    # answers extended with lemmas and synonyms
     extended_answers = read_in_extended_answers("/home/skrjanec/cito_opdracht/data/extended_answers.json")
 
-
+    # sentence embedding model
     model = SentenceTransformer('NetherlandsForensicInstitute/robbert-2022-dutch-sentence-transformers')
 
     evaluate_item1(new_responses_i01=new_responses["i01"], model=model)
